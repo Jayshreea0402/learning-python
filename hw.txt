@@ -1,0 +1,2 @@
+python dict variables 
+Write a Python script to calculate the area of a rectangle. Prompt the user to input the length and width, calculate the area, and print the result. 
